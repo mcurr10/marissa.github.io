@@ -5,3 +5,8 @@ plugins:
 
 title: Marissa's Website 
 description: Portfolio/ Writings 
+
+
+github:
+  zip_url: https://mcurr10.github.io/marissa.github.io/
+  another_url: another value
